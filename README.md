@@ -98,36 +98,6 @@
 
 ---
 
-### 🎵 SANG PLAYER - Cloud Music Streaming Player
-*Trình phát nhạc trực tuyến cá nhân kết nối trực tiếp với hạ tầng lưu trữ đám mây.*
-<p align="left">
-  • <b>Tính năng nổi bật:</b> Stream nhạc trực tuyến tốc độ cao và ổn định, kiến trúc phi tập trung giúp loại bỏ hoàn toàn việc lưu trữ tài nguyên cục bộ trên server.<br>
-  • <b>Tích hợp:</b> Kết nối API đồng bộ trực tiếp với hệ thống <b>CloudFly Object Storage (S3-Compatible Storage)</b> công khai thay vì sử dụng local paths để giải quyết triệt để vấn đề truy cập file.<br>
-  • <b>Công nghệ:</b> Node.js, Express, Object Storage S3, HTML5 Audio API.
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Storage-S3_Compatible-blueviolet?style=flat-square" />
-</p>
-
----
-
-### 🔗 Private URL Shortener
-*Hệ thống rút gọn liên kết nội bộ bảo mật cao.*
-<p align="left">
-  • <b>Tính năng nổi bật:</b> Tạo liên kết ngắn nhanh chóng, tích hợp hệ thống bảo mật bằng mật khẩu bảo vệ mã hóa cho từng link riêng biệt trước khi chuyển hướng, quản lý tập trung và gọn gàng.<br>
-  • <b>Kiến trúc dữ liệu:</b> Tối ưu hóa hiệu năng bằng cơ chế lưu trữ phẳng dựa trên định dạng <b>JSON-based storage</b> giúp hệ thống chạy siêu nhẹ mà không cần kết nối hệ quản trị cơ sở dữ liệu cồng kềnh.<br>
-  • <b>Công nghệ:</b> PHP, JSON, Clean URLs (Vercel deployment).
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database-JSON-yellow?style=flat-square" />
-</p>
-
-</div>
-
----
-
 ## 🛠️ BỘ CÔNG CỤ & CÔNG NGHỆ / TECH STACK ADVANCED
 
 <table width="100%">
@@ -160,16 +130,16 @@
 ## 📊 THỐNG KÊ HOẠT ĐỘNG / CYBERPUNK STATS CARDS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TEN_GITHUB_CUA_BAN&show_icons=true&theme=tokyonight&count_private=true&edge_flat=false" alt="GitHub Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEN_GITHUB_CUA_BAN&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sangneko&show_icons=true&theme=tokyonight&count_private=true&edge_flat=false" alt="GitHub Stats" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangneko&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="190" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEN_GITHUB_CUA_BAN&theme=tokyonight" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangneko&theme=tokyonight" alt="GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TEN_GITHUB_CUA_BAN&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sangneko&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophies" width="100%" />
 </p>
 
 ---
@@ -177,10 +147,10 @@
 ## 📬 LIÊN HỆ & KẾT NỐI / CONNECT WITH ME
 
 <p align="center">
-  <a href="mailto:EMAIL_CUA_BAN@gmail.com">
+  <a href="mailto:nguyenthaisang2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a> &nbsp;
-  <a href="https://facebook.com/LINK_FB_CUA_BAN">
+  <a href="https://facebook.com/sangneko">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>

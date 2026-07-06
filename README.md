@@ -3,9 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:7a00ff&height=240&section=header&text=NGUYỄN%20THÁI%20SANG&fontSize=50&animation=twinkling&fontColor=ffffff" width="100%" />
 </p>
 
+<!-- Avatar cá nhân được tối ưu hiển thị / Optimized Personal Avatar -->
+<p align="center">
+  <img src="https://s3.cloudfly.vn/mybucket/517398583_1261776888636404_2763610108885456910_n.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #00D2FF; box-shadow: 0 0 15px #0072ff;" alt="Nguyễn Thái Sang Avatar" />
+</p>
+
 <!-- Bilingual Dynamic Subtitle Terminal -->
 <p align="center">
-  <img src="https://s3.cloudfly.vn/mybucket/517398583_1261776888636404_2763610108885456910_n.jpg" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=🚀+Software+Engineering+Student;🛠️+Full-Stack+Web+Developer;🤖+AI+%26+Linux+Enthusiast;💻+Sinh+viên+Kỹ+thuật+Phần+mềm" alt="Typing SVG" />
 </p>
 
 <p align="center">

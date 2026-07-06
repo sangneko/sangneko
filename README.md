@@ -3,12 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:7a00ff&height=240&section=header&text=NGUYỄN%20THÁI%20SANG&fontSize=50&animation=twinkling&fontColor=ffffff" width="100%" />
 </p>
 
-<!-- Avatar cá nhân được tối ưu hiển thị / Optimized Personal Avatar -->
+<!-- Avatar cá nhân được tối ưu hiển thị với viền Neon phát sáng -->
 <p align="center">
-  <img src="https://s3.cloudfly.vn/mybucket/517398583_1261776888636404_2763610108885456910_n.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #00D2FF; box-shadow: 0 0 15px #0072ff;" alt="Nguyễn Thái Sang Avatar" />
+  <img src="https://s3.cloudfly.vn/mybucket/517398583_1261776888636404_2763610108885456910_n.jpg" width="160" height="160" style="border-radius: 50%; border: 4px solid #00D2FF; box-shadow: 0 0 25px #0072ff, inset 0 0 15px #7a00ff;" alt="Nguyễn Thái Sang Avatar" />
 </p>
 
-<!-- Bilingual Dynamic Subtitle Terminal -->
+<!-- Thống kê lượt truy cập Terminal thời gian thực -->
+<p align="center">
+  <img src="https://komarev.com/normal-badge.png?id=sangneko&style=for-the-badge&color=0072ff&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<!-- Hiệu ứng chữ chạy song ngữ hệ Terminal / Bilingual Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=🚀+Software+Engineering+Student;🛠️+Full-Stack+Web+Developer;🤖+AI+%26+Linux+Enthusiast;💻+Sinh+viên+Kỹ+thuật+Phần+mềm" alt="Typing SVG" />
 </p>
@@ -18,7 +23,10 @@
   <img src="https://img.shields.io/github/stars/sangneko?label=Total%20Stars&style=for-the-badge&color=7a00ff&logo=github" />
 </p>
 
----
+<!-- Thanh phân tách động dạng Gradient chuyển dịch màu sắc -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" width="100%" />
+</p>
 
 ## 🌐 NGÔN NGỮ / LANGUAGE SELECTION
 
@@ -28,18 +36,18 @@
       <details open>
         <summary><b>🇻🇳 Tiếng Việt (Vietnamese)</b></summary>
         <br />
-        <h3>💫 Về Tôi</h3>
+        <h3>💫 Hành Trình Học Tập & Phát Triển</h3>
         <ul>
-          <li>🎓 Hiện đang là sinh viên chuyên ngành <b>Công nghệ thông tin / Kỹ thuật phần mềm</b>.</li>
-          <li>💻 Đam mê xây dựng các sản phẩm Web Full-stack (kiến trúc MVC với PHP và hệ sinh thái Node.js/Express).</li>
-          <li>🐧 Thích mày mò cấu hình máy chủ VPS (Ubuntu), tối ưu hệ thống, container hóa với <b>Docker</b> và tự động hóa.</li>
-          <li>🤖 Đang nghiên cứu tích hợp trí tuệ nhân tạo (LLMs), cấu hình các mô hình chạy local (Ollama/Qwen) và ứng dụng AI APIs.</li>
-          <li>📺 Tối ưu hóa luồng live-stream bằng <b>FFmpeg/SRT</b> và cấu hình OBS Studio đạt độ trễ thấp nhất.</li>
+          <li>🎓 Hiện đang theo học chuyên ngành <b>Công nghệ thông tin / Kỹ thuật phần mềm</b> với định hướng kỹ sư hệ thống và ứng dụng hiệu năng cao.</li>
+          <li>💻 Đam mê sâu sắc với phát triển Web Full-stack, kiến trúc mô hình sạch (MVC), tối ưu hóa luồng tương tác không đồng bộ dữ liệu lớn.</li>
+          <li>🐧 Khả năng làm việc thực tế cao với hệ thống: Cấu hình và quản trị máy chủ Linux/Ubuntu VPS, triển khai hạ tầng ảo hóa, tự động hóa dịch vụ thông qua container hóa bằng <b>Docker</b>.</li>
+          <li>🤖 Đang thử nghiệm sâu mảng AI Integration: Tự vận hành, tinh chỉnh và nhúng các mô hình ngôn ngữ lớn (LLMs) chạy local như Qwen thông qua Ollama, khai thác API kết hợp logic ứng dụng.</li>
+          <li>📺 Tối ưu hóa truyền thông đa phương tiện: Xây dựng giải pháp truyền tải Live-streaming độ trễ cực thấp sử dụng giao thức <b>SRT (Secure Reliable Transport)</b> thay cho RTMP truyền thống kết hợp xử lý luồng bằng lệnh <b>FFmpeg</b>.</li>
         </ul>
-        <h3>🎮 Sở Thích</h3>
+        <h3>🎮 Đam Mê Kỹ Thuật Số</h3>
         <ul>
-          <li><b>Gaming & Localization:</b> Đam mê các tựa game thế giới mở đồ họa đẹp (HoYoverse, ARPGs) và vọc vạch kỹ thuật mod, dịch thuật/bản địa hóa asset game (XUnity.AutoTranslator, BepInEx, UABEA).</li>
-          <li><b>AI Hardware:</b> Theo dõi hiệu năng phần cứng (NVIDIA RTX) để phục vụ AI rendering và chạy local LLMs.</li>
+          <li><b>Modding & Game Localization:</b> Thích nghiên cứu cấu trúc tệp tin đóng gói của các tựa game Unity thế giới mở (HoYoverse, ARPGs), tự tay biên dịch, can thiệp tài nguyên asset và cấu hình các công cụ dịch tự động (XUnity.AutoTranslator, BepInEx, UABEA).</li>
+          <li><b>AI Rendering:</b> Theo dõi sát sao cấu trúc phần cứng máy trạm, khả năng tính toán của các dòng GPU cao cấp phục vụ xử lý đồ họa thông minh.</li>
         </ul>
       </details>
     </td>
@@ -47,36 +55,40 @@
       <details>
         <summary><b>🇬🇧 English (Tiếng Anh)</b></summary>
         <br />
-        <h3>💫 About Me</h3>
+        <h3>💫 Learning & Career Path</h3>
         <ul>
-          <li>🎓 Currently a <b>Software Engineering</b> student.</li>
-          <li>💻 Passionate about building Full-stack Web applications (PHP MVC and Node.js/Express ecosystem).</li>
-          <li>🐧 Love tweaking VPS (Ubuntu) servers, system optimization, containerization with <b>Docker</b>, and automation.</li>
-          <li>🤖 Researching AI integration, configuring local LLMs (Ollama/Qwen), and embedding AI APIs into projects.</li>
-          <li>📺 Optimizing live-streaming workflows using <b>FFmpeg/SRT</b> and OBS configurations for ultra-low latency.</li>
+          <li>🎓 Pursuing a degree in <b>Information Technology / Software Engineering</b>, focusing on scalable and high-performance systems.</li>
+          <li>💻 Deeply passionate about Full-stack Web development, clean MVC architectures, and optimizing large-scale asynchronous data flows.</li>
+          <li>🐧 Solid hands-on experience in server environments: configuring Linux/Ubuntu VPS, virtualization management, and containerizing services using <b>Docker</b>.</li>
+          <li>🤖 Researching AI Integration: hosting and fine-tuning local Large Language Models (LLMs) like Qwen via Ollama, utilizing generative AI APIs for application logic.</li>
+          <li>📺 Media Processing: developing ultra-low latency live-streaming workflows by transitioning to the modern <b>SRT (Secure Reliable Transport)</b> protocol, powered by <b>FFmpeg</b> scripts and OBS configurations.</li>
         </ul>
-        <h3>🎮 Interests</h3>
+        <h3>🎮 Digital Interests</h3>
         <ul>
-          <li><b>Gaming & Modding:</b> Immersed in beautiful open-world titles (HoYoverse games, ARPGs) and love exploring game asset modding and localization techniques.</li>
-          <li><b>AI Hardware:</b> Tracking hardware performance (NVIDIA RTX) optimized for AI rendering and local execution of LLMs.</li>
+          <li><b>Modding & Game Localization:</b> Exploring asset structures of Unity-based open-world titles (HoYoverse, heavy ARPGs), modifying game binaries, and implementing automated translation engines (XUnity.AutoTranslator, BepInEx, UABEA).</li>
+          <li><b>AI Hardware:</b> Tracking performance milestones of enterprise workstation components and high-end GPUs optimized for AI rendering.</li>
         </ul>
       </details>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" width="100%" />
+</p>
+
 ---
 
-## 🚀 CÁC DỰ ÁN TIÊU BIỂU / DETAILED PROJECT SHOWCASE
+## 🚀 DANH SÁCH DỰ ÁN CHI TIẾT / ARCHITECTURAL PROJECT SHOWCASE
 
 <div align="center">
 
 ### 🏬 MegaWMS - Warehouse Management System
-*Hệ thống quản lý kho hàng thông minh ứng dụng các thuật toán xuất nhập tiên tiến.*
+*Hệ thống quản lý và vận hành nhà kho thông minh cho chuỗi cung ứng thực phẩm.*
 <p align="left">
-  • <b>Kiến trúc:</b> Full-stack Web Application.<br>
-  • <b>Tính năng nổi bật:</b> Xây dựng Dashboard quản trị trực quan, triển khai logic quản lý hàng hóa theo phương pháp <b>FEFO (First Expired, First Out)</b> và theo dõi lô hàng (Batch Tracking) nghiêm ngặt dành cho hệ thống kho thủy sản đóng hộp.<br>
-  • <b>Công nghệ:</b> PHP MVC / Node.js, JavaScript, MySQL/SQL Server.
+  • <b>Kiến trúc cốt lõi:</b> Mô hình Full-stack Enterprise Application.<br>
+  • <b>Giải pháp kỹ thuật:</b> Thiết kế Dashboard phân tích thời gian thực, hiện thực hóa thuật toán xuất nhập hàng khắt khe <b>FEFO (First Expired, First Out)</b> kết hợp quản lý mã lô hàng (Batch Tracking) nghiêm ngặt cho nhà kho lưu trữ đồ thủy sản đóng hộp.<br>
+  • <b>Tech Stack:</b> PHP MVC, Node.js, JavaScript, MySQL, SQL Server.
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
@@ -85,15 +97,76 @@
 
 ---
 
-### 🌐 my_social - Social Media Platform
-*Nền tảng mạng xã hội lấy cảm hứng từ Facebook với đầy đủ tính năng tương tác thời gian thực.*
+### 🌐 my_social - Facebook-inspired Social Platform
+*Nền tảng mạng xã hội thu nhỏ tập trung tối ưu hóa trải nghiệm tương tác.*
 <p align="left">
-  • <b>Tính năng nổi bật:</b> Hệ thống đăng ký/đăng nhập tài khoản bảo mật, Bảng tin (Newsfeed) cập nhật liên tục, tải lên và quản lý tệp tin đa phương tiện truyền thông cùng hệ thống tương tác (Like, Comment) mượt mà.<br>
-  • <b>Công nghệ:</b> PHP (Cấu trúc lại Database sang bảng <code>account</code> đồng bộ), AJAX, MySQL, JavaScript.
+  • <b>Giải pháp kỹ thuật:</b> Triển khai hệ thống xác thực người dùng bảo mật, bảng tin động cuộn vô hạn (Newsfeed), tải lên/xử lý bất đồng bộ các tệp tin đa phương tiện truyền thông và luồng tương tác thả tim, bình luận thời gian thực.<br>
+  • <b>Tối ưu hóa:</b> Đồng bộ hóa cấu trúc cơ sở dữ liệu lớn sang bảng hệ thống tập trung (<code>account</code> table mapping) giải quyết triệt để xung đột truy vấn dữ liệu cũ.<br>
+  • <b>Tech Stack:</b> PHP, AJAX, JavaScript, MySQL.
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/UX-Realtime-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/UX-Realtime_Interactions-orange?style=flat-square" />
+</p>
+
+---
+
+### 🎵 SANG PLAYER - Distributed Cloud Music Streamer
+*Trình phát nhạc trực tuyến cá nhân cấu trúc phi tập trung không tốn tài nguyên máy chủ.*
+<p align="left">
+  • <b>Giải pháp kỹ thuật:</b> Stream và xử lý bộ nhớ đệm âm thanh chất lượng cao trực tiếp trên trình duyệt. Toàn bộ tài nguyên đa phương tiện tĩnh được giải phóng hoàn toàn khỏi local storage của VPS server.<br>
+  • <b>Hạ tầng đám mây:</b> Nhúng hệ thống kết nối API phân phối dữ liệu public liên kết trực tiếp với <b>CloudFly Object Storage (Hạ tầng lưu trữ tương thích S3)</b> giúp giải quyết lỗi 404/đọc file cục bộ.<br>
+  • <b>Tech Stack:</b> Node.js, Express, S3-Compatible Object Storage, HTML5 Media API.
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Storage-S3_CloudFly-blueviolet?style=flat-square" />
+</p>
+
+---
+
+### 🖼️ Miu Gallery - Modern Reveal Countdown Gallery
+*Dự án kỷ niệm web trưng bày hình ảnh nghệ thuật kết hợp bộ đếm ngược dòng thời gian thực tế.*
+<p align="left">
+  • <b>Giải pháp kỹ thuật:</b> Xây dựng giao diện trình diễn hình ảnh đáp ứng hiệu ứng mượt mà, viết logic kiểm tra và tự động mở khóa các thành phần hiển thị dựa theo mốc thời gian thiết lập trước (Timed Reveal Feature), tính toán chính xác chu kỳ đếm ngược hệ thống.<br>
+  • <b>Tech Stack:</b> HTML5, CSS3 Grid/Flexbox, JavaScript (ES6+), Countdown Engine.
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Maintained-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Feature-Timed_Reveal-ff69b4?style=flat-square" />
+</p>
+
+---
+
+### 🛒 Website Bán Đồ Công Nghệ Thông Minh Cũ - Academic Project
+*Nền tảng thương mại điện tử chuyên biệt hỗ trợ mua bán, định giá thiết bị thông minh qua sử dụng.*
+<p align="left">
+  • <b>Giải pháp kỹ thuật & Phối hợp nhóm:</b> Phát triển nền tảng mua sắm thương mại điện tử tích hợp tính năng định giá tự động. Đảm nhận vai trò phối hợp, xử lý tài liệu phân tích nghiệp vụ, mô hình hóa sơ đồ Use Case/Activity chuyên sâu cùng nhóm dự án.<br>
+  • <b>Tech Stack:</b> ASP.NET Core / Web API, SQL Server, HTML, CSS, JavaScript, AJAX.
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Academic_Release-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Team_Collaborator-yellowgreen?style=flat-square" />
+</p>
+
+---
+
+### 🔗 Private URL Shortener & Link Manager
+*Dịch vụ rút gọn liên kết nội bộ mã hóa siêu nhẹ.*
+<p align="left">
+  • <b>Giải pháp kỹ thuật:</b> Thiết kế công cụ rút gọn link, mã hóa bảo vệ bằng mật khẩu truy cập cho từng liên kết. Hệ thống sử dụng kiến trúc lưu trữ phẳng dữ liệu cấu trúc <b>JSON-based storage</b> giúp vận hành tốc độ cao mà không tốn tài nguyên RDBMS.<br>
+  • <b>Triển khai:</b> Cấu hình tham số xử lý <code>cleanUrls</code> trên hạ tầng nền tảng đám mây để loại bỏ hoàn toàn các phần mở rộng tệp tin tĩnh (như <code>.html</code>), định hình đường dẫn chuẩn SEO, chuyên nghiệp.<br>
+  • <b>Tech Stack:</b> PHP, JSON Storage Engine, Vercel Clean Server Configuration.
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-NoSQL_JSON-yellow?style=flat-square" />
+</p>
+
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" width="100%" />
 </p>
 
 ---

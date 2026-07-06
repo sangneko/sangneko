@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/sangneko?label=Followers&style=for-the-badge&color=0072ff&logo=github" />
-  <img src="https://img.shields.io/github/stars/TEN_GITHUB_CUA_BAN?label=Total%20Stars&style=for-the-badge&color=7a00ff&logo=github" />
+  <img src="https://img.shields.io/github/stars/sangneko?label=Total%20Stars&style=for-the-badge&color=7a00ff&logo=github" />
 </p>
 
 ---

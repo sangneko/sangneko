@@ -5,7 +5,7 @@
 
 <!-- Bilingual Dynamic Subtitle Terminal -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=🚀+Software+Engineering+Student;🛠️+Full-Stack+Web+Developer;🤖+AI+%26+Linux+Enthusiast;💻+Sinh+viên+Kỹ+thuật+Phần+mềm" alt="Typing SVG" />
+  <img src="https://s3.cloudfly.vn/mybucket/517398583_1261776888636404_2763610108885456910_n.jpg" alt="Typing SVG" />
 </p>
 
 <p align="center">

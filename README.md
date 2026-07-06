@@ -125,16 +125,7 @@
 
 ---
 
-### 🖼️ Miu Gallery - Modern Reveal Countdown Gallery
-*Dự án kỷ niệm web trưng bày hình ảnh nghệ thuật kết hợp bộ đếm ngược dòng thời gian thực tế.*
-<p align="left">
-  • <b>Giải pháp kỹ thuật:</b> Xây dựng giao diện trình diễn hình ảnh đáp ứng hiệu ứng mượt mà, viết logic kiểm tra và tự động mở khóa các thành phần hiển thị dựa theo mốc thời gian thiết lập trước (Timed Reveal Feature), tính toán chính xác chu kỳ đếm ngược hệ thống.<br>
-  • <b>Tech Stack:</b> HTML5, CSS3 Grid/Flexbox, JavaScript (ES6+), Countdown Engine.
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Maintained-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Feature-Timed_Reveal-ff69b4?style=flat-square" />
-</p>
+
 
 ---
 

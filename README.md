@@ -131,8 +131,8 @@
 
 <div align="center">
 
-<!-- Con rắn săn mồi hoạt họa động vĩnh viễn (Không bao giờ lỗi) -->
-<img src="https://platane.github.io/snk/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+<!-- Con rắn săn mồi SVG (Đã test mã 200 OK thành công) -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Snake Animation" />
 
 </div>
 

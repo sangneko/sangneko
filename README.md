@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- 🌌 CYBERPUNK MATRIX DYNAMIC BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=120&text=NGUYEN%20THAI%20SANG&fontSize=38&fontColor=ffffff" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=130&text=%E2%9A%A1%20NGUYEN%20THAI%20SANG%20%E2%9A%A1&fontSize=38&fontColor=ffffff" width="100%" alt="Header" />
 
 <br/><br/>
 
 <!-- 👾 SCI-FI HACKER TERMINAL ANIMATION -->
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="380" alt="Cyberpunk Hacker Animation" />
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Cyberpunk Hacker Animation" />
 
 <br/><br/>
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-<!-- 🛡️ HUD BADGES -->
+<!-- 🛡️ HUD STATUS BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00f2fe?style=for-the-badge&logo=statuspage&logoColor=black" />
   <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-7f00ff?style=for-the-badge&logo=auth0&logoColor=white" />
@@ -81,7 +81,7 @@
 
 | Lĩnh Vực // Sector | Công Nghệ Vận Hành // Tech Stack |
 | :--- | :--- |
-| **🌐 Web Development** | <img src="https://skillicons.dev/icons?i=php,nodejs,javascript,html,css,tailwind,express" alt="Web Tech" /> |
+| **🌐 Full-Stack Web** | <img src="https://skillicons.dev/icons?i=php,nodejs,javascript,html,css,tailwind,express" alt="Web Tech" /> |
 | **🗄️ Database & Storage** | <img src="https://skillicons.dev/icons?i=mysql,mssql,redis,mongodb" alt="Databases" /> |
 | **🐧 System & DevOps** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,git,github,bash" alt="DevOps" /> |
 | **🤖 AI & Media Tools** | ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-Live_Streaming-007800?style=for-the-badge&logo=ffmpeg&logoColor=white) ![SRT](https://img.shields.io/badge/SRT_Protocol-Sub_Second_Latency-FF4500?style=for-the-badge&logo=airplayvideo&logoColor=white) |

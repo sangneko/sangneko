@@ -127,15 +127,26 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" width="100%" />
 </div>
 
-<div align="center">
 ## 🐍 THE CONTRIBUTION HUNTER // RẮN SĂN MỒI COMMIT
-<!-- Con rắn chuyển động tự thích ứng cả Dark mode lẫn Light mode -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sangneko/sangneko/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sangneko/sangneko/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sangneko/sangneko/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+
+<div align="center">
+
+<!-- Con rắn săn mồi hoạt họa động vĩnh viễn (Không bao giờ lỗi) -->
+<img src="https://platane.github.io/snk/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+
 </div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" width="100%" />
+</div>
+
+## 🚀 CODE MATRIX RADAR // DÒ QUÉT HOẠT ĐỘNG
+
+<div align="center">
+
+<!-- Radar Hacker Scanner Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Radar Code Scanner" />
+
 <br/><br/>
 
 <p align="center">

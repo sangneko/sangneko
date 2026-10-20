@@ -1,166 +1,181 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:7a00ff&height=220&section=header&text=NGUYỄN%20THÁI%20SANG&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
-</p>
-
-<!-- AVATAR & SOCIAL BADGES -->
-<p align="center">
-  <img src="https://s3.cloudfly.vn/mybucket/517398583_1261776888636404_2763610108885456910_n.jpg" width="140" height="140" style="border-radius: 50%; border: 3px solid #00D2FF;" alt="Nguyễn Thái Sang Avatar" />
-</p>
-
-<!-- TYPING SVG -->
-<p align="center">
-  <a href="https://github.com/sangneko">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=800&color=00D2FF&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Web+Developer;🐧+Linux+%26+DevOps+Enthusiast;🤖+Local+AI+%26+LLM+Researcher;📺+Low-Latency+Streaming+%26+FFmpeg" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- FOLLOWERS & STARS BADGES -->
-<p align="center">
-  <a href="https://github.com/sangneko?tab=followers">
-    <img src="https://img.shields.io/github/followers/sangneko?label=Followers&style=for-the-badge&color=0072ff&logo=github&logoColor=white" alt="Followers" />
-  </a>
-  <a href="https://github.com/sangneko">
-    <img src="https://img.shields.io/github/stars/sangneko?label=Total%20Stars&style=for-the-badge&color=7a00ff&logo=github&logoColor=white" alt="Stars" />
-  </a>
-</p>
-
-<!-- DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" width="100%" />
-</p>
-
-## 🌐 GIỚI THIỆU / ABOUT ME
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <details open>
-        <summary><b>🇻🇳 Tiếng Việt</b></summary>
-        <br />
-        <h4>💫 Hành Trình & Định Hướng</h4>
-        <ul>
-          <li>🎓 Sinh viên chuyên ngành <b>CNTT / Kỹ thuật phần mềm</b> định hướng kỹ sư hệ thống.</li>
-          <li>💻 Đam mê <b>Web Full-stack</b>, kiến trúc MVC sạch và tối ưu hóa luồng dữ liệu bất đồng bộ.</li>
-          <li>🐧 Quản trị máy chủ <b>Linux/Ubuntu</b>, triển khai container hóa với <b>Docker</b>.</li>
-          <li>🤖 <b>AI Local</b>: Tự host và nhúng LLMs (Qwen, LLaMA) qua Ollama.</li>
-          <li>📺 <b>Media Streaming</b>: Xây dựng luồng stream độ trễ cực thấp với <b>SRT protocol</b> & <b>FFmpeg</b>.</li>
-        </ul>
-        <h4>🎮 Sở Thích Kỹ Thuật</h4>
-        <ul>
-          <li><b>Game Modding:</b> Việt hóa và can thiệp tài nguyên game Unity thế giới mở.</li>
-          <li><b>AI Hardware:</b> Theo dõi kiến trúc và hiệu năng tính toán đồ họa GPU.</li>
-        </ul>
-      </details>
-    </td>
-    <td width="50%" valign="top">
-      <details open>
-        <summary><b>🇬🇧 English</b></summary>
-        <br />
-        <h4>💫 Path & Focus</h4>
-        <ul>
-          <li>🎓 Majoring in <b>Information Technology / Software Engineering</b>.</li>
-          <li>💻 Focused on <b>Full-Stack Web</b>, clean MVC patterns, and high-performance async workflows.</li>
-          <li>🐧 Hands-on with <b>Linux/Ubuntu</b> servers & containerization via <b>Docker</b>.</li>
-          <li>🤖 <b>Local AI</b>: Self-hosting and deploying LLMs (Qwen, LLaMA) via Ollama.</li>
-          <li>📺 <b>Media Streaming</b>: Building ultra-low latency pipelines using <b>SRT protocol</b> & <b>FFmpeg</b>.</li>
-        </ul>
-        <h4>🎮 Tech Interests</h4>
-        <ul>
-          <li><b>Game Modding:</b> Asset modding & localization for Unity open-world games.</li>
-          <li><b>AI Hardware:</b> Benchmarking high-performance GPUs for AI workloads.</li>
-        </ul>
-      </details>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" width="100%" />
-</p>
-
-## 🚀 DỰ ÁN TIÊU BIỂU / FEATURED PROJECTS
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏬 MegaWMS</h3>
-      <p><b>Hệ thống quản lý kho thông minh (Warehouse Management System)</b></p>
-      <ul>
-        <li>Tối ưu hóa quản lý tồn kho dựa trên thuật toán <b>FEFO (First Expired, First Out)</b>.</li>
-        <li>Hỗ trợ xuất nhập kho, kiểm kê theo thời gian thực và quản lý vị trí hàng hóa.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎵 SANG PLAYER</h3>
-      <p><b>Distributed Cloud Music Streamer</b></p>
-      <ul>
-        <li>Nền tảng stream nhạc đám mây tích hợp lưu trữ phân tán.</li>
-        <li>Tối ưu hoá truyền tải dữ liệu âm thanh qua hạ tầng đám mây tốc độ cao.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status" />
-        <img src="https://img.shields.io/badge/Storage-S3_CloudFly-blueviolet?style=flat-square" alt="Storage" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" width="100%" />
-</p>
-
-## 🛠️ KỸ NĂNG & CÔNG NGHỆ / TECH STACK
-
 <div align="center">
 
-| Lĩnh Vực / Domain | Công Nghệ / Technologies |
-| :--- | :--- |
-| **🌐 Web Development** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **🗄️ Database & Storage** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
-| **🐧 DevOps & Streaming** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007800?style=for-the-badge&logo=ffmpeg&logoColor=white) |
-| **🤖 AI & Local LLM** | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen_LLM-615EFF?style=for-the-badge&logo=ai&logoColor=white) |
+<!-- Cyberpunk Header Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,45:4FACFE,80:7F00FF,100:000000&height=260&section=header&text=%E2%9A%A1%20NGUY%E1%BB%84N%20TH%C3%81I%20SANG%20%E2%9A%A1&fontSize=42&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=%3C%20Architecting%20Scalable%20Systems%20%C2%B7%20AI%20%C2%B7%20Streaming%20Pipelines%20/%3E&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+
+<!-- Glowing Neon Avatar with Hologram Ring -->
+<a href="https://github.com/sangneko">
+  <img src="https://s3.cloudfly.vn/mybucket/517398583_1261776888636404_2763610108885456910_n.jpg" width="145" height="145" style="border-radius: 50%; border: 3px solid #00F2FE; box-shadow: 0 0 25px #00F2FE, 0 0 50px #7F00FF;" alt="Sang Avatar" />
+</a>
+
+<br/><br/>
+
+<!-- Realtime Dynamic Typing Console -->
+<a href="https://github.com/sangneko">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=600&color=00F2FE&background=0D111700&center=true&vCenter=true&multiline=false&width=750&height=45&lines=%E2%9E%A4+Initializing+Neural+Core...+%5BDONE%5D;%F0%9F%9A%80+Full-Stack+Web+Architect+(Node.js+%7C+PHP+%7C+Modern+JS);%F0%9F%90%A7+Linux+Kernel+%26+Docker+Containerization+Specialist;%F0%9F%A4%96+Self-Hosting+Local+LLMs+%26+Neural+Inference+(Ollama);%F0%9F%93%BA+Ultra-Low+Latency+Live-Streaming+(SRT+%7C+FFmpeg)" alt="Typing SVG" />
+</a>
+
+<!-- Real-time HUD Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00f2fe?style=for-the-badge&logo=statuspage&logoColor=black" />
+  <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-7f00ff?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/sangneko?label=Followers&style=for-the-badge&color=00c6ff&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/github/stars/sangneko?label=Stars&style=for-the-badge&color=ff007f&logo=reverbnation&logoColor=white" />
+</p>
+
+<!-- Matrix Cyber Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" width="100%" />
 
 </div>
 
-<br />
+## 🧬 NEURAL INTERFACE // TRUNG TÂM DỮ LIỆU CÁ NHÂN
 
-<!-- GITHUB STATS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangneko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangneko&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <details open>
+        <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flags/Vietnam/flag_vietnam.png" width="20" height="20" /> <b>HỒ SƠ KỸ THUẬT (VIETNAMESE)</b></summary>
+        <br />
+        <p>🛸 <b>Vị trí:</b> Kỹ sư Hệ thống / Full-stack Developer</p>
+        <ul>
+          <li>🎓 Đang đào tạo chuyên sâu <b>Công nghệ Thông tin & Kỹ thuật Phần mềm</b>.</li>
+          <li>⚡ <b>Core Architecture:</b> Xây dựng Web Full-Stack theo chuẩn Clean MVC, tối ưu hoá thông lượng I/O và truy vấn cơ sở dữ liệu lớn.</li>
+          <li>🐧 <b>Hạ tầng & Hệ thống:</b> Vận hành môi trường Linux Server (Ubuntu/Debian), ảo hóa và đóng gói dịch vụ với <b>Docker & Compose</b>.</li>
+          <li>🤖 <b>Trí tuệ nhân tạo (Local AI):</b> Triển khai & tinh chỉnh mô hình ngôn ngữ lớn (Qwen, LLaMA) trực tiếp trên server cá nhân thông qua <b>Ollama runtime</b>.</li>
+          <li>📡 <b>Streaming Protocol:</b> Tối ưu hóa pipeline phát trực tiếp siêu độ trễ thấp thông qua giao thức <b>SRT (Secure Reliable Transport)</b> phối hợp tự động hóa qua <b>FFmpeg core scripts</b>.</li>
+          <li>🎮 <b>Sở thích chuyên môn:</b> Đảo ngược & bản địa hóa tài nguyên game Unity; nghiên cứu kiến trúc GPU acceleration cho mô hình đồ hoạ.</li>
+        </ul>
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <details open>
+        <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flags/United%20Kingdom/flag_united_kingdom.png" width="20" height="20" /> <b>SYSTEM LOGS (ENGLISH)</b></summary>
+        <br />
+        <p>🛸 <b>Role:</b> Systems Engineer / Full-stack Developer</p>
+        <ul>
+          <li>🎓 Pursuing Academic Degree in <b>Software Engineering & IT</b>.</li>
+          <li>⚡ <b>Core Architecture:</b> Developing Full-Stack Web solutions adhering to Clean MVC, maximizing async I/O throughput.</li>
+          <li>🐧 <b>Infrastructure:</b> Linux environments (Ubuntu/Debian) operator; automated deployments and containerization with <b>Docker</b>.</li>
+          <li>🤖 <b>On-Premise AI:</b> Deploying, managing and interfacing open-weight LLMs (Qwen/LLaMA) locally via <b>Ollama ecosystem</b>.</li>
+          <li>📡 <b>Media Streaming:</b> Engineering mission-critical sub-second live broadcasts utilizing <b>SRT Protocol</b> orchestrated by dynamic <b>FFmpeg pipelines</b>.</li>
+          <li>🎮 <b>Tech Passions:</b> Unity game modding, binary resource patch localization, and hardware GPU benchmarking.</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
 
-<!-- DIVIDER -->
-<p align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" width="100%" />
+</div>
+
+## ⚡ CYBERNETIC ARSENAL // CÔNG NGHỆ CHỦ LỰC
+
+<div align="center">
+
+| Lĩnh vực // Sector | Công nghệ vận hành // Deployed Technologies |
+| :--- | :--- |
+| **🌐 Web Development** | <img src="https://skillicons.dev/icons?i=php,nodejs,javascript,html,css,tailwind,express" /> |
+| **🗄️ Database & Storage** | <img src="https://skillicons.dev/icons?i=mysql,mssql,redis,mongodb" /> |
+| **🐧 System & DevOps** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,git,github,bash" /> |
+| **🤖 AI & Media Core** | <img src="https://img.shields.io/badge/Ollama-Local_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/FFmpeg-Audio%2FVideo_Stream-007800?style=for-the-badge&logo=ffmpeg&logoColor=white" /> <img src="https://img.shields.io/badge/SRT_Protocol-Sub_Second_Latency-FF4500?style=for-the-badge&logo=airplayvideo&logoColor=white" /> |
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" width="100%" />
+</div>
+
+## 🛰️ ARCHITECTURAL HIGHLIGHTS // DỰ ÁN CHIẾN LƯỢC
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🏬 MegaWMS - Enterprise Warehouse</h3>
+        <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00F2FE?style=for-the-badge" />
+      </div>
+      <br/>
+      <ul>
+        <li><b>Thuật toán FEFO (First Expired, First Out):</b> Tự động tính toán luân chuyển và định tuyến xuất hàng ưu tiên sản phẩm cận date nhất.</li>
+        <li><b>Kiến trúc:</b> Tối ưu hóa chuỗi truy vấn kho đa chi nhánh, hạn chế nghẽn cổ chai với bảng dữ liệu lớn.</li>
+        <li><b>Công nghệ:</b> <code>PHP</code>, <code>MySQL</code>, <code>Clean Architecture</code>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🎵 Sang Player - Cloud Stream Core</h3>
+        <img src="https://img.shields.io/badge/STATUS-ACTIVE-7F00FF?style=for-the-badge" />
+      </div>
+      <br/>
+      <ul>
+        <li><b>Kiến trúc phân tán:</b> Stream trực tiếp nội dung âm thanh qua Object Storage hiệu năng cao tích hợp <b>S3 CloudFly</b>.</li>
+        <li><b>Tối ưu băng thông:</b> Chia nhỏ luồng buffer âm thanh, giảm 65% thời gian khởi tạo phát nhạc lần đầu.</li>
+        <li><b>Công nghệ:</b> <code>Node.js</code>, <code>S3 Object Storage</code>, <code>Audio API</code>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" width="100%" />
+</div>
+
+## 📊 REAL-TIME TELEMETRY // THỐNG KÊ HOẠT ĐỘNG
+
+<div align="center">
+
+<!-- GitHub Stats Neon Box -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sangneko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=7F00FF&text_color=E0E6ED" width="49%" alt="Sang GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangneko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=E0E6ED" width="47%" alt="Top Languages" />
 </p>
 
-## 📬 LIÊN HỆ & KẾT NỐI / GET IN TOUCH
-
+<!-- Real-time Activity Wave Graph -->
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangneko&theme=tokyo-night&bg_color=0D1117&color=00F2FE&line=7F00FF&point=00F2FE&area=true&hide_border=true" width="97%" alt="Activity Graph" />
+</p>
+
+<!-- Animated Snake Eating Contributions -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="97%" />
+</p>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" width="100%" />
+</div>
+
+## 📡 COMM-LINK // KẾT NỐI TRỰC TIẾP
+
+<div align="center">
+
+<p>
   <a href="mailto:nguyenthaisang2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-TRANSMIT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://facebook.com/sangneko" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/FACEBOOK-COMMUNICATE-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sangneko" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  ⚡ <i>"The matrix is everywhere. It is all around us."</i> ⚡
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Zap.png" width="22" height="22" /> 
+  <i>"The matrix is everywhere. It is all around us."</i> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Zap.png" width="22" height="22" />
 </p>
 
-<p align="center">
-  ⭐️ <i>Nếu ghé thăm thấy thú vị, đừng quên để lại 1 Star cho các repository của mình nhé!</i> ⭐️
+<p>
+  ⭐ <i>Nhớ nhấn <b>Star</b> cho các repository bạn yêu thích để tiếp thêm năng lượng phát triển nhé!</i> ⭐
 </p>
+
+<!-- Bottom Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7F00FF,100:00F2FE&height=120&section=footer" width="100%" />
+
+</div>
